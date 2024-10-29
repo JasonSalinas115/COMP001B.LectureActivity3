@@ -3,3 +3,12 @@ nav {
     float: left;
 }
 
+.sect1 {
+    width: 50%;
+    float: left;
+}
+
+aside {
+    width: 25%;
+    float: right;
+}
